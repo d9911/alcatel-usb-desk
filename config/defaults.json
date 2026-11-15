@@ -1,0 +1,9 @@
+{
+  "language": "en",
+  "enableSpanish": false,
+  "serial": "",
+  "cameraRotation": 90,
+  "cameraCrop": "720:1168:0:68",
+  "maxFps": 30,
+  "maxSize": 1280
+}
